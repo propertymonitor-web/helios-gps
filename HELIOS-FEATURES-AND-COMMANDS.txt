@@ -4,7 +4,8 @@ Current version: alpha4   (P1-Pro, GPS)
 Last updated: 2026-10-19
 
 HELIOS is the LODESTAR PULSAR repeater firmware for the Seeed SenseCAP Solar Node (nRF52840), plus a read-only battery watch.
-It is ALPHA software. Battery percentages are approximate. Change the admin password (default: password) first.
+It is ALPHA software. Every command listed here has been tested on real hardware (a P1-Pro) by the author, 2026-10-20;
+a month-long roof test is under way. Battery percentages are approximate. Change the admin password (default: password) first.
 
 ----------------------------------------------------------------
 WHAT HELIOS DOES
